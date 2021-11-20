@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/bmizerany/pat"
-	"net/http"
 	"github.com/igor-koniukhov/web_s_study/internal/handlers"
+	"net/http"
 )
 
 // routes defines the application routes
