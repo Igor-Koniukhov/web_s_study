@@ -1,5 +1,5 @@
 module github.com/igor-koniukhov/web_s_study
-
+// +heroku goVersion go1.17
 go 1.17
 
 require (
